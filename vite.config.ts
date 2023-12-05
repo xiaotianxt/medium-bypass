@@ -14,6 +14,7 @@ export default defineConfig((config) => {
           version,
           description,
           author,
+          homepage: "https://github.com/xiaotianxt/medium-bypass",
           match: [
             "*://*.adelaidenow.com.au/*",
             "*://*.adweek.com/*",
