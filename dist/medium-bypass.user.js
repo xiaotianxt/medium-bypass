@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        medium-bypass
-// @version     0.0.2
+// @version     0.1.0
 // @description Bypass Medium paywall
 // @author      xiaotianxt <tianyp@pku.edu.cn> (https://xiaotianxt.com/)
 // @homepage    https://github.com/xiaotianxt/medium-bypass
