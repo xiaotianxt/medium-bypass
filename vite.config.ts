@@ -185,5 +185,9 @@ export default defineConfig((config) => {
     define: {
       "process.env": process.env,
     },
+    build: {
+      // remove minification, sqeeze, and so on
+      minify: "esbuild",
+    },
   };
 });
