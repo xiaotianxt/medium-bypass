@@ -1,8 +1,10 @@
 {
   "name": "medium-bypass",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "author": "xiaotianxt <tianyp@pku.edu.cn> (https://xiaotianxt.com/)",
+  "description": "Bypass Medium paywall",
   "files": [
     "dist",
     "index.d.ts"
