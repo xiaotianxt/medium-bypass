@@ -1,7 +1,7 @@
 import iconUrl from "./icon.png";
 import spinningUrl from "./spin.svg";
 
-const BYPASS_ORIGIN = "https://freedium.cfd/";
+const BYPASS_ORIGIN = "https://freedium-mirror.cfd/";
 
 export default function BypassButton() {
   let loading = false;
